@@ -1,2 +1,2 @@
 # Python
-Projetos feitos em linguagem python 
+Projetos feitos em linguagem python 🐍
